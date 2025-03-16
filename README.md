@@ -1,10 +1,10 @@
 # TCP_and_UDP_sockets
 This repository will record and compare the rtt, throughput, average latency and packet loss in tcp and udp communication. 
 
-How to run:
+### How to run:
 First run the server file and then run their respective client file.
 
-Expected outputs:
+### Expected outputs:
   Run the server file:
     Server listening on 0.0.0.0:12345
   Run TCP client file:
@@ -27,4 +27,5 @@ Run UDP client file:
   Average Latency: 0.000142 seconds
   Packet Loss Rate: 12.00%
   Throughput: 7060.71 messages per second
+### 
 
